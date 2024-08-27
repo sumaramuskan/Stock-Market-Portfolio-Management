@@ -29,7 +29,7 @@ cd Stock-Market-Portfolio-Management
 
 1. Open **phpMyAdmin** via `http://localhost/phpmyadmin`.
 2. Create a new database called `stockmarket,user,userportfolio`.
-3. Import the SQL schema from `schema.sql` (if provided in the repo) or create the necessary tables manually in phpMyAdmin.
+3. Import the SQL schema from `stockmarket.sql` 
 
 ### 4. Configure Database Connection in the Project
 
